@@ -1,0 +1,1 @@
+{"request":{"method":"GET","url":"/products/comparison?ids=1,2&fields=name&fields=price&fields=battery","headers":{},"body":{}},"response":{"status_code":200,"headers":{"Content-Type":"application/json"},"body":null}}
