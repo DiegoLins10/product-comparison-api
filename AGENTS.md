@@ -40,3 +40,8 @@
 - Responder em português
 - Evitar texto em inglês em commits, README e PR, salvo quando exigido por nome técnico
 - Sempre confirmar com o usuário quando houver qualquer dúvida ou ambiguidade antes de executar mudanças
+
+### Arquitetura
+- Respeitar separação de camadas (Domain, Application, Infra, API)
+- Não permitir acesso direto do Controller ao repositório
+- Regras de negócio devem ficar na camada de domínio
